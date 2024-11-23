@@ -16,6 +16,7 @@ public class SintonizadorFMApp {
         }
         // Mostramos las frecuencias de cada sintonizador.
         System.out.println("Resultados:");
+        System.out.println("Hola soy Miguel Hernanadez editando y subiendo con git a github");
         frecuenciaAutomatica.display();
         frecuenciaManual1.display();
         frecuenciaManual2.display();
